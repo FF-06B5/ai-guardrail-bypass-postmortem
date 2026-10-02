@@ -52,5 +52,3 @@ Details and empirical reasoning in the [full post-mortem](./redteam-postmortem-a
 `llm-security` `prompt-injection` `ai-agents` `red-team` `ai-safety` `defensive-security`
 
 ---
-
-*Author: Andy ([@FF-06B5](https://github.com/FF-06B5)) — CS undergraduate @ HKBU. Feedback and discussion welcome via Issues.*
